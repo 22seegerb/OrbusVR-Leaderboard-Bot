@@ -8,7 +8,7 @@ import updatefromrecent
 from update import dataFromParse
 from PIL import Image
 
-TOKEN = "MTAzOTIyNzQ3OTY3NzczOTA1OA.G4aq3l.oLFOOKvFUN_Q44aBIor5_jtx52jzJjIwIqPgKI"
+TOKEN = ""
 
 bot = discord.Bot()
 
