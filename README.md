@@ -30,6 +30,7 @@ Commands:
 - url: The URL to get the data from. It must be a valid leaderboard parse link.
 - show_relative_position: Show a short comparison of nearby parses, and the position on the leaderboard.
 - show_graph: Show the damage graph over time.
+
 Main Parse Command:
 <img width="356" alt="parse1" src="https://user-images.githubusercontent.com/43051577/200962143-5e5f968c-5b67-465b-b65d-fd3a6baa7b43.PNG">
 Parse Leaderboard Position:
